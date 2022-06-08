@@ -1,0 +1,76 @@
+[2019-10-23 11:38:36] slim-app.INFO: Your name: kfkd [] {"uid":"07beec0"}
+[2019-10-23 11:39:05] slim-app.INFO: Your name: čůůůs [] {"uid":"84424d3"}
+[2019-10-23 11:39:32] slim-app.INFO: Your name: ahoj [] {"uid":"1575486"}
+[2019-10-23 11:40:02] slim-app.INFO: Your name: ahoj [] {"uid":"f2bcc64"}
+[2019-10-23 11:41:21] slim-app.INFO: Your name: gtg [] {"uid":"13211f2"}
+[2019-10-23 11:43:58] slim-app.INFO: Your name: napisu nec [] {"uid":"39420cf"}
+[2019-10-23 11:44:01] slim-app.INFO: Your name: o [] {"uid":"4c87df6"}
+[2019-10-23 12:43:21] slim-app.INFO: Your name: ahoj [] {"uid":"0ebe6ea"}
+[2019-10-30 11:03:41] slim-app.INFO: Your name: dsAD [] {"uid":"b89270c"}
+[2019-10-30 11:04:01] slim-app.INFO: Your name: HONZA [] {"uid":"237e8ba"}
+[2019-10-30 11:05:59] slim-app.INFO: Your name:  [] {"uid":"8a89ef6"}
+[2019-10-30 11:11:36] slim-app.INFO: Your name:  [] {"uid":"96c3de8"}
+[2019-10-30 11:17:24] slim-app.INFO: Your name:  [] {"uid":"05fc20c"}
+[2019-10-30 11:27:22] slim-app.INFO: Your name: dsAD [] {"uid":"f7c068f"}
+[2019-10-30 12:11:39] slim-app.INFO: Your name:  [] {"uid":"c1dd02e"}
+[2019-11-16 14:08:11] slim-app.INFO: Your name:  [] {"uid":"43f9de5"}
+[2019-11-16 14:08:14] slim-app.INFO: Your name: honza [] {"uid":"142f447"}
+[2019-12-01 18:16:04] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "<br /> <b>Notice</b>:  Undefined variable: p in <b>/export/home/xmrakava/public_html/APV/projekt/cache/b52f0a4cb3.php</b> on line <b>137</b><br /> " [] {"uid":"b5bb5e7"}
+[2019-12-01 18:16:34] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "<br /> <b>Notice</b>:  Undefined variable: p in <b>/export/home/xmrakava/public_html/APV/projekt/cache/b52f0a4cb3.php</b> on line <b>129</b><br /> " [] {"uid":"df7013a"}
+[2019-12-01 18:19:16] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "<br /> <b>Notice</b>:  Undefined variable: p in <b>/export/home/xmrakava/public_html/APV/projekt/cache/b52f0a4cb3.php</b> on line <b>129</b><br /> " [] {"uid":"4f77b35"}
+[2019-12-01 18:19:22] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "<br /> <b>Notice</b>:  Undefined variable: p in <b>/export/home/xmrakava/public_html/APV/projekt/cache/b52f0a4cb3.php</b> on line <b>145</b><br /> " [] {"uid":"7232a02"}
+[2019-12-01 18:19:33] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "<br /> <b>Notice</b>:  Undefined variable: p in <b>/export/home/xmrakava/public_html/APV/projekt/cache/b52f0a4cb3.php</b> on line <b>145</b><br /> " [] {"uid":"ea50a9c"}
+[2019-12-01 18:19:44] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "<br /> <b>Notice</b>:  Undefined variable: p in <b>/export/home/xmrakava/public_html/APV/projekt/cache/b52f0a4cb3.php</b> on line <b>129</b><br /> " [] {"uid":"bc6c8c1"}
+[2019-12-01 18:20:55] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "" [] {"uid":"5d68d94"}
+[2019-12-01 18:24:13] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "" [] {"uid":"a004e9c"}
+[2019-12-01 18:24:30] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "" [] {"uid":"8221b57"}
+[2019-12-01 18:24:32] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "" [] {"uid":"12532b9"}
+[2019-12-01 19:10:14] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "" [] {"uid":"037de4d"}
+[2019-12-01 19:12:19] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "<br /> <b>Notice</b>:  Undefined variable: p in <b>/export/home/xmrakava/public_html/APV/projekt/cache/b52f0a4cb3.php</b> on line <b>124</b><br /> " [] {"uid":"5942c59"}
+[2019-12-01 19:35:17] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "<br /> <b>Notice</b>:  Undefined variable: p in <b>/export/home/xmrakava/public_html/APV/projekt/cache/b52f0a4cb3.php</b> on line <b>125</b><br /> " [] {"uid":"70899fa"}
+[2019-12-01 19:39:18] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "<br /> <b>Notice</b>:  Undefined variable: p in <b>/export/home/xmrakava/public_html/APV/projekt/cache/b52f0a4cb3.php</b> on line <b>125</b><br /> " [] {"uid":"4e80163"}
+[2019-12-01 19:39:31] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "" [] {"uid":"a72ad91"}
+[2019-12-01 19:39:43] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "" [] {"uid":"4c771c8"}
+[2019-12-01 19:40:43] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "" [] {"uid":"1588a00"}
+[2019-12-01 19:40:44] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "" [] {"uid":"38f6a3b"}
+[2019-12-01 19:51:21] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "" [] {"uid":"f6d9ffc"}
+[2019-12-01 19:51:24] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "" [] {"uid":"b0b6f1c"}
+[2019-12-01 19:53:27] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "" [] {"uid":"fc14cb3"}
+[2019-12-01 20:00:45] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "" [] {"uid":"1fb6aaf"}
+[2019-12-01 20:00:50] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "" [] {"uid":"32e0511"}
+[2019-12-01 20:10:21] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "" [] {"uid":"b35f712"}
+[2019-12-01 20:25:06] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "<br /> <b>Notice</b>:  Undefined variable: p in <b>/export/home/xmrakava/public_html/APV/projekt/cache/b52f0a4cb3.php</b> on line <b>126</b><br /> " [] {"uid":"8ba2c56"}
+[2019-12-01 20:25:25] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "<br /> <b>Notice</b>:  Undefined variable: p in <b>/export/home/xmrakava/public_html/APV/projekt/cache/b52f0a4cb3.php</b> on line <b>126</b><br /> " [] {"uid":"6d044ea"}
+[2019-12-01 20:26:11] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "<br /> <b>Notice</b>:  Undefined variable: p in <b>/export/home/xmrakava/public_html/APV/projekt/cache/b52f0a4cb3.php</b> on line <b>126</b><br /> " [] {"uid":"034cf62"}
+[2019-12-01 20:26:17] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "<br /> <b>Notice</b>:  Undefined variable: p in <b>/export/home/xmrakava/public_html/APV/projekt/cache/b52f0a4cb3.php</b> on line <b>126</b><br /> " [] {"uid":"2a8c82e"}
+[2019-12-01 20:32:07] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "<br /> <b>Notice</b>:  Undefined variable: p in <b>/export/home/xmrakava/public_html/APV/projekt/cache/b52f0a4cb3.php</b> on line <b>126</b><br /> " [] {"uid":"cebb478"}
+[2019-12-01 20:32:14] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "<br /> <b>Notice</b>:  Undefined variable: p in <b>/export/home/xmrakava/public_html/APV/projekt/cache/b52f0a4cb3.php</b> on line <b>126</b><br /> " [] {"uid":"a025bb3"}
+[2019-12-01 20:32:27] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "" [] {"uid":"35572a4"}
+[2019-12-01 20:33:40] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "<br /> <b>Notice</b>:  Undefined variable: p in <b>/export/home/xmrakava/public_html/APV/projekt/cache/b52f0a4cb3.php</b> on line <b>126</b><br /> " [] {"uid":"c237fa1"}
+[2019-12-01 21:19:41] slim-app.ERROR: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "<br /> <b>Notice</b>:  Undefined variable: p in <b>/export/home/xmrakava/public_html/APV/projekt/cache/b52f0a4cb3.php</b> on line <b>134</b><br /> " [] {"uid":"be8315f"}
+[2019-12-02 15:53:34] slim-app.INFO: Your name: honza [] {"uid":"631327d"}
+[2019-12-03 18:09:26] slim-app.INFO: Your name:  [] {"uid":"5e9de1d"}
+[2021-03-11 03:33:42] slim-app.ERROR: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "xmrakava" [] {"uid":"276eb4a"}
+[2021-03-17 13:15:53] slim-app.ERROR: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "xmrakava" [] {"uid":"faa4667"}
+[2021-04-22 00:33:07] slim-app.ERROR: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "xmrakava" [] {"uid":"92dd497"}
+[2021-05-12 11:52:49] slim-app.ERROR: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "xmrakava" [] {"uid":"46f8356"}
+[2021-05-21 10:11:54] slim-app.ERROR: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "xmrakava" [] {"uid":"aaf5a83"}
+[2021-06-12 20:23:22] slim-app.ERROR: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "xmrakava" [] {"uid":"64ee088"}
+[2021-07-04 08:38:52] slim-app.ERROR: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "xmrakava" [] {"uid":"ffdfc68"}
+[2021-09-02 13:05:05] slim-app.ERROR: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "xmrakava" [] {"uid":"60ee627"}
+[2021-09-04 10:16:51] slim-app.ERROR: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "xmrakava" [] {"uid":"1f3d24f"}
+[2021-09-12 20:43:38] slim-app.ERROR: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "xmrakava" [] {"uid":"d0678cb"}
+[2021-10-05 13:22:34] slim-app.ERROR: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "xmrakava" [] {"uid":"2bdf754"}
+[2021-11-01 21:46:52] slim-app.ERROR: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "xmrakava" [] {"uid":"5064eda"}
+[2021-11-12 10:51:52] slim-app.ERROR: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "xmrakava" [] {"uid":"1262f28"}
+[2021-11-21 15:56:29] slim-app.ERROR: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "xmrakava" [] {"uid":"f967aae"}
+[2021-12-15 03:36:56] slim-app.ERROR: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "xmrakava" [] {"uid":"a809131"}
+[2021-12-16 21:07:46] slim-app.ERROR: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "xmrakava" [] {"uid":"5e56877"}
+[2022-01-28 08:09:47] slim-app.ERROR: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "xmrakava" [] {"uid":"2b82b55"}
+[2022-02-22 14:10:49] slim-app.ERROR: SQLSTATE[08006] [7] could not connect to server: Connection refused 	Is the server running on host "localhost" (127.0.0.1) and accepting 	TCP/IP connections on port 5432? [] {"uid":"ab9491d"}
+[2022-03-04 12:16:48] slim-app.ERROR: SQLSTATE[08006] [7] could not connect to server: Connection refused 	Is the server running on host "localhost" (127.0.0.1) and accepting 	TCP/IP connections on port 5432? [] {"uid":"e00abfb"}
+[2022-03-24 05:29:40] slim-app.ERROR: SQLSTATE[08006] [7] could not connect to server: Connection refused 	Is the server running on host "localhost" (127.0.0.1) and accepting 	TCP/IP connections on port 5432? [] {"uid":"150fe8d"}
+[2022-04-05 07:52:24] slim-app.ERROR: SQLSTATE[08006] [7] could not connect to server: Connection refused 	Is the server running on host "localhost" (127.0.0.1) and accepting 	TCP/IP connections on port 5432? [] {"uid":"5dfc0ae"}
+[2022-04-13 16:00:12] slim-app.ERROR: SQLSTATE[08006] [7] could not connect to server: Connection refused 	Is the server running on host "localhost" (127.0.0.1) and accepting 	TCP/IP connections on port 5432? [] {"uid":"12b716d"}
+[2022-04-19 16:56:55] slim-app.ERROR: SQLSTATE[08006] [7] could not connect to server: Connection refused 	Is the server running on host "localhost" (127.0.0.1) and accepting 	TCP/IP connections on port 5432? [] {"uid":"3148f10"}
+[2022-05-17 22:54:58] slim-app.ERROR: SQLSTATE[08006] [7] could not connect to server: Connection refused 	Is the server running on host "localhost" (127.0.0.1) and accepting 	TCP/IP connections on port 5432? [] {"uid":"693c422"}

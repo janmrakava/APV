@@ -1,0 +1,77 @@
+{extends layout.latte}
+
+{block title}Add meeting{/block}
+
+{block body}
+    <div class="container">
+	
+	    <div class="container" style="margin-top: 0px">
+        <h1>Add meeting</h1> 
+	</div>    
+    
+    
+<div class="container"  style="margin-top: -25px"> 
+<form method="post" action="{link newMeeting}">
+  <div class="form-row"  >
+
+<div class="col-sm-4 form-group">
+<label for="z">Start</label>  
+<input type="datetime-local" name="z" required> 
+</div>
+
+<br>
+<div class="col-sm-4 form-group">    
+<label for="d">Description</label>  
+<input type="text" name="d" required>
+</div>
+<br>
+<div class="col-sm-4 form-group">
+<label for="de">Length</label> 
+<input type="time" name="de" required> 
+ </div>
+<br>
+ <div class="col-sm-4 form-group">
+<label for="m">Place</label>   
+       <select name="m">
+            {foreach $m as $p}
+                <option value="{$p['id_location']}">{$p['city']} {$p['street_name']} {$p['street_number']}, {$p['name']}</option>
+            {/foreach}
+</select>
+
+<button class="btn-sm btn-primary" type="submit">Submit</button>
+ </div>
+   </div>
+</form>
+<br>
+<br>
+<br>
+<table class="table table-dark table-hover">
+ <tr>
+                <th>Start</th>
+                <th>Description</th>
+                <th colspan="1" class="text-center">Action</th>
+            
+            </tr>
+            {foreach $meetings as $p}
+               <tr>
+<td>
+{$p['start']}
+</td><td>
+{$p['description']}
+</td><td>
+                    <form method="post"
+                      action="{link deleteMeeting}">
+			<button class="btn-sm btn-primary" type="submit">Delete</button>
+			<input type="hidden" value="{$p['id_meeting']}" name="id_meeting">                   </form>
+</td>
+</tr>
+
+            {/foreach}
+
+</table>
+</div>
+</div>
+
+
+
+	{/block}
